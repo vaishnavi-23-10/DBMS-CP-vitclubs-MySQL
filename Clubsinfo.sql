@@ -28,5 +28,5 @@ insert into gdsc (DomainID,DomainName,PRN,Name,Branch,positon) values
  
   insert into gdsc (DomainID,DomainName,PRN,Name,Branch,positon) values 
   ("M01","Managment",12210111,"Nakul","Mechanical","Head"),
-  ("M02","Mechanical",12210321,"Rakul","CS-AIML","Secretary"),
-  ("M03","Mechanical",12210732,"Anushka","IT","Secretary");
+  ("M02","Managmnet",12210321,"Rakul","CS-AIML","Secretary"),
+  ("M03","Managmnet",12210732,"Anushka","IT","Secretary");
